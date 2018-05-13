@@ -13,6 +13,6 @@ Chấm báo cáo:
 
 Người chấm: Trần Thị Minh Nguyệt
 
-Điểm:8.5
+Điểm:9
 
-Nhận xét: Hoàn thành tốt bài tập nhóm. Tuy nhiên, phần tự học softwera engineering bạn chưa thực hiện.
+Nhận xét: Hoàn thành tốt bài tập nhóm và các khóa tự học.
