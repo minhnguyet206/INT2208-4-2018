@@ -8,3 +8,11 @@
 - Nội dung tự học:
 - Tự học React,meteor(xem ở repo) [mongodb](images/mongo.png) và [material ui](images/material%20ui.png)(repo được dựng và connect vào mongo) ở mức thông hiểu.
 - Setup [aws](images/aws.png), [complete aws s3 aws](images/aws%20s3.png), [heroku deploy](images/heroku%20deploy.png), [docker repo](https://hub.docker.com/r/gungui/duolingo_clone/) và [travis ci](images/travis.png)
+
+Chấm báo cáo:
+
+Người chấm: Trần Thị Minh Nguyệt
+
+Điểm:8.5
+
+Nhận xét: Hoàn thành tốt bài tập nhóm. Tuy nhiên, phần tự học softwera engineering bạn chưa thực hiện.
